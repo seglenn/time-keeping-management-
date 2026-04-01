@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="time-keeping-management-app-service/time-keeping-management-app-service.csproj" Id="d2f7d6e8-dfee-4295-8980-9ba8f56e86a9" />
+  <Project Path="time-keeping-management-data-service/time-keeping-management-data-service.csproj" Id="ca4c9929-a9a2-4ded-86d9-531ddfb4b8b3" />
+  <Project Path="time-keeping-management-models/time-keeping-management-models.csproj" Id="bffe6056-1026-48a7-b3fe-4075024be26a" />
+  <Project Path="time-keeping-management/time-keeping-management.csproj" Id="232898cb-0bde-4fb0-b987-e69b2c262057" />
+</Solution>

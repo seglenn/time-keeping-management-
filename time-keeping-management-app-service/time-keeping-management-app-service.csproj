@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>time_keeping_management_app_service</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\time-keeping-management-data-service\time-keeping-management-data-service.csproj" />
+    <ProjectReference Include="..\time-keeping-management-models\time-keeping-management-models.csproj" />
+  </ItemGroup>
+
+</Project>
